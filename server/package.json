@@ -1,0 +1,15 @@
+{
+  "name": "lbr-studio-server",
+  "version": "1.0.0",
+  "description": "NodeJS app to run lbr-studio website",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Curt Bryan III",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
